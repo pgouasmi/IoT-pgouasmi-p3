@@ -16,6 +16,6 @@ spec:
       containers:
       - name: wil-playground
         # Notez ici la version - c'est ce que vous changerez pour passer de v1 à v2
-        image: wil42/playground:v1
+        image: wil42/playground:v2
         ports:
         - containerPort: 8888
